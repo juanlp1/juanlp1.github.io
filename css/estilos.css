@@ -356,7 +356,7 @@ video{
     height: 3.8rem;
 }
 .separador{
-    background-image: url('../assets/img/ensalada.webp');
+    background-image: url('../assets/descargas/trucha\ frita.jpeg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -417,6 +417,7 @@ video{
 }
 .texto-chef, .imagen-chef{
     flex: 0 0 calc(50% - 1rem);
+    
 }
 .texto-chef h3{
     font-size: 3rem;
